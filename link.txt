@@ -1,0 +1,7 @@
+https://github.com/glowlogix/gleamhrm
+
+email: admin@glowlogix.com
+password: admin
+
+email: kosar@glowlogix.com
+password: 123456
